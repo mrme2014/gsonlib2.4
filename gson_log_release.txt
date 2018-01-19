@@ -1,0 +1,188 @@
+====================BEGIN=============2018-01-19 17:29:51=======================BEGIN==================
+
+本次请求的服务名以及参数：http://mapi.91alli.com/client/service.json?appCode=pandasport&authedUserId=8201712272378903&currentPage=1&loginKey=USLaa3d133dda6d4f54987e669303a37d6e&roleName=%E4%B9%94%E6%9C%A8New&service=PURCHASE_ORDER_JOINABLE_QUERY&sign=a3206fa26440e4838255c5c1e0e073b5
+
+本次请求的Response中本应返回却为NULL的字段是：
+
+ListBean====>mBean is empty,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean is empty,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean1 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean2 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean is empty,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean1 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean2 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【2】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【3】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【4】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【5】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【6】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【7】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean is empty,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean1 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean2 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【9】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【10】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean is empty,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean1 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean2 is empty,should be careful
+
+ListBean====>normalPurchaseOrders【12】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>title is empty,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>userMedalList is empty,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>title is empty,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>userMedalList is empty,should be careful
+
+====================END=============2018-01-19 17:29:51======================END===================
+
+
+
+====================BEGIN=============2018-01-19 17:31:35=======================BEGIN==================
+
+本次请求的服务名以及参数：http://mapi.91alli.com/client/service.json?appCode=pandasport&authedUserId=8201712272378903&currentPage=1&loginKey=USLaa3d133dda6d4f54987e669303a37d6e&roleName=%E4%B9%94%E6%9C%A8New&service=PURCHASE_ORDER_JOINABLE_QUERY&sign=a3206fa26440e4838255c5c1e0e073b5
+
+本次请求的Response中本应返回却为NULL的字段是：
+
+ListBean====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【2】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【3】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【4】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【5】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【6】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【7】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【9】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【10】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【12】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>title is Null,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>title is Null,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>userMedalList is Null,should be careful
+
+====================END=============2018-01-19 17:31:35======================END===================
+
+
+
+
+
+====================BEGIN=============2018-01-19 17:34:29=======================BEGIN==================
+
+本次请求的服务名以及参数：http://mapi.91alli.com/client/service.json?appCode=pandasport&authedUserId=8201712272378903&currentPage=1&loginKey=USLaa3d133dda6d4f54987e669303a37d6e&roleName=%E4%B9%94%E6%9C%A8New&service=PURCHASE_ORDER_JOINABLE_QUERY&sign=a3206fa26440e4838255c5c1e0e073b5
+
+本次请求的Response中本应返回却为NULL的字段是：
+
+ListBean====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【0】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【1】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【2】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【3】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【4】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【5】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【6】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【7】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【8】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【9】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【10】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean1 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【11】====>userMedalList【0】====>mBean2 is Null,should be careful
+
+ListBean====>normalPurchaseOrders【12】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>title is Null,should be careful
+
+ListBean====>normalPurchaseOrders【13】====>userMedalList is Null,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>title is Null,should be careful
+
+ListBean====>normalPurchaseOrders【14】====>userMedalList is Null,should be careful
+
+====================END=============2018-01-19 17:34:29======================END===================
+
+
+
